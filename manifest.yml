@@ -7,5 +7,5 @@ applications:
   host: logistics-wizard-controller
   buildpack: python_buildpack
   env:
-    LOGISTICS_WIZARD_ENV: PROD
+    LOGISTICS_WIZARD_ENV: DEV
     ERP_SERVICE: XXX
