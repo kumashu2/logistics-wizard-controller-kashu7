@@ -1,4 +1,4 @@
-# Logistics Wizard Controller
+# Logistics Wizard Controller Test
 
 | **master** | [![Build Status](https://travis-ci.org/IBM-Bluemix/logistics-wizard-controller.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/logistics-wizard-controller) [![Coverage Status](https://coveralls.io/repos/github/IBM-Bluemix/logistics-wizard-controller/badge.svg?branch=master)](https://coveralls.io/github/IBM-Bluemix/logistics-wizard-controller?branch=master) |
 | ----- | ----- |
@@ -16,7 +16,6 @@ This service acts as the main controller for interaction between the system's se
 
 ## Running the app on Bluemix
 
-1. If you do not already have a Bluemix account, [sign up here][bluemix_signup_url]
 
 1. Download and install the [Cloud Foundry CLI][cloud_foundry_url] tool
 
