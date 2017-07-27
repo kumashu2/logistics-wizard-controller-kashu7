@@ -14,7 +14,7 @@ This service acts as the main controller for interaction between the system's se
 
 ![Bluemix Deployments](https://deployment-tracker.mybluemix.net/stats/d4f7f6455442b0d2e1325dde70ab15ab/badge.svg)
 
-## Running the app on Bluemix
+## Running the app on Bluemix Test
 
 
 1. Download and install the [Cloud Foundry CLI][cloud_foundry_url] tool
